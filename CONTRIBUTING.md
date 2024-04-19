@@ -23,3 +23,10 @@ We welcome contributions via pull requests! Here are some guidelines to help you
 - Please make sure all tests pass and add new tests as necessary.
 - If your change requires documentation, please update the relevant documentation.
 - Please be patient! We will do our best to review your pull request as soon as possible.
+
+## Nix Users
+
+If you are an existing Nix user, our repositories contain a `.envrc` file that will automatically configure your environment for local development using Nix. To benefit of this, make sure to enable `direnv`:
+
+- [With Home Manager](https://nix-community.github.io/home-manager/options.xhtml#opt-programs.direnv.enable)
+- [With NixOS](https://search.nixos.org/options?channel=23.11&show=programs.direnv.enable&from=0&size=50&sort=relevance&type=packages&query=direnv)
