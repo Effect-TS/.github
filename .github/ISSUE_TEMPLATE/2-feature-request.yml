@@ -9,6 +9,10 @@ body:
 
         If you want to discuss Effect, or learn how others are using Effect, please
         join our [Discord](https://discord.gg/effect-ts) server.
+
+        Note: issues and pull requests are triaged and reviewed with the help of AI, and
+        pull requests will be modified by AI agents. A maintainer approves every merge
+        and close. See [AI-assisted triage and review](https://github.com/Effect-TS/.github/blob/main/CONTRIBUTING.md#ai-assisted-triage-and-review).
   - type: textarea
     attributes:
       label: What is the problem this feature would solve?

@@ -2,6 +2,19 @@
 
 This project adheres to the Contributor Covenant [code of conduct](./CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [contact@effectul.co](mailto:contact@effectul.co).
 
+## AI-assisted triage and review
+
+Issues and pull requests in Effect-TS repositories are triaged and reviewed with
+the help of AI agents. Agents may label, comment on, and ask follow-up questions
+about issues and pull requests. Every merge and every close is approved by a
+maintainer.
+
+Pull requests will be modified by AI agents to keep quality high. Expect commits
+pushed to your branch (review fixes, tests, changesets, formatting), rebases, or
+a follow-up pull request that builds on your work. You stay credited as an
+author. Please leave "Allow edits by maintainers" enabled so changes can be made
+on your branch.
+
 ## Pull Requests
 
 We welcome contributions via pull requests! Here are some guidelines to help you get started:

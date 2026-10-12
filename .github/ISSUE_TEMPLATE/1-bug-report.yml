@@ -15,6 +15,10 @@ body:
 
         Please try to include as much information as possible.
 
+        Note: issues and pull requests are triaged and reviewed with the help of AI, and
+        pull requests will be modified by AI agents. A maintainer approves every merge
+        and close. See [AI-assisted triage and review](https://github.com/Effect-TS/.github/blob/main/CONTRIBUTING.md#ai-assisted-triage-and-review).
+
   - type: input
     attributes:
       label: What version of Effect is running?

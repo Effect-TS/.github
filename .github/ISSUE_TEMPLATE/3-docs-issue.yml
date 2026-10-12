@@ -8,6 +8,10 @@ body:
         Thank you for submitting a documentation request. It helps make Effect better.
 
         We are working to a documentation [website](https://www.effect.website/). Please report as many issues or missing content requests as you can so we can incoperate that in the new documentation.
+
+        Note: issues and pull requests are triaged and reviewed with the help of AI, and
+        pull requests will be modified by AI agents. A maintainer approves every merge
+        and close. See [AI-assisted triage and review](https://github.com/Effect-TS/.github/blob/main/CONTRIBUTING.md#ai-assisted-triage-and-review).
   - type: dropdown
     attributes:
       label: What is the type of issue?
