@@ -11,6 +11,10 @@ Before submitting a Pull Request, please ensure you've done the following:
 - ⏳ Please be patient! We will do our best to review your pull request as soon as possible.
 
 NOTE: Pull Requests from forked repositories will need to be reviewed by a team member before any CI builds will run.
+
+Note: issues and pull requests are triaged and reviewed with the help of AI, and
+pull requests will be modified by AI agents. A maintainer approves every merge
+and close. See [AI-assisted triage and review](https://github.com/Effect-TS/.github/blob/main/CONTRIBUTING.md#ai-assisted-triage-and-review).
 -->
 
 ## Type
